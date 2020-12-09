@@ -2,9 +2,9 @@
   "main": {
     "name": "Matias Canton",
     "occupation": "Full Stack Developer?",
-    "description": " tengo 28 años y amo la programacion. ",
+    "description": " tengo 28 años y me dedico al desarrollo hace más de 5 años. Scrolleá que te cuento un poco más. ",
     "image": "matias.jpg",
-    "bio": "Mi nombre es Matias, soy Desarrollador Full Stack, me gusta tanto el Back como el Front, aunque actualmente estoy con React.js todo el dia. ",
+    "bio": "Soy un Desarrollador Full Stack apasionado por la programación, me gusta tanto el Back-End como el Front-End, aunque debo decir que últimamente me estoy especializando mas en el Front, ya que hace un tiempo descubrí ReactJS y me enamoré, por lo que estoy todo el día ampliando mis conocimientos sobre esta tecnología.",
     "contactmessage": "Contactame.",
     "email": "matiasacanton@gmail.com",
     "phone": "+54 9 1164069909",
@@ -30,11 +30,11 @@
     ]
   },
   "resume": {
-    "skillmessage": "Con PHP, HTML5, CSS y MYSQL tengo 5 años de experiencia laboral, en cuanto a ReactJS, medio año pero actualmente estoy full time.",
+    "skillmessage": "En cuanto a mis habilidades, podría decir que tengo una gran experiencia en PHP, HTML5, CSS y MYSQL. Con ReactJs no llego todavía a ese nivel, pero se que en cualquier momento lo supero. No hay día en el que no este aprendiendo algo nuevo.",
     "education": [
       {
         "school": "UADE",
-        "degree": "Ingenieria en Informatica",
+        "degree": "Ingeniería en Informática",
         "graduated": "Diciembre 2022",
         "description": "Cursando 4to año"
       }
@@ -77,33 +77,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Ecommerce FrontEnd",
-        "category": "Ecommerce de venta de carteras con ReactJS",
-        "image": "",
-        "url": ""
+        "title": "Copia de Netflix Front-End",
+        "category": "Web clon de Netflix, en ReactJS",
+        "image": "netflix.png",
+        "url": "https://heuristic-neumann-f69fe0.netlify.app"
       },
       {
         "title": "App de Clima",
         "category": "Web de clima segun ciudad y pais con ReactJS",
-        "image": "",
-        "url": "https://heuristic-neumann-f69fe0.netlify.app"
+        "image": "climaapp.png",
+        "url": "https://hopeful-swanson-f80d2d.netlify.app"
       },
-      {
-        "title": "Buscador de Peliculas",
-        "category": "Web de busqueda de peliculas con ReactJS",
-        "image": "",
-        "url": "https://heuristic-neumann-f69fe0.netlify.app"
-      },
+      
       {
         "title": "App de Noticias",
         "category": "Web de noticias segun la categoria que desees con ReactJS",
-        "image": "",
-        "url": ""
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "",
+        "image": "news.png",
         "url": ""
       }
     ]
