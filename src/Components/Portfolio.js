@@ -22,7 +22,6 @@ class Portfolio extends Component {
         </div>
       })
     }
-
     return (
       <section id="portfolio">
         <div className="row">

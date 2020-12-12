@@ -60,8 +60,6 @@ const Contact = ({ data }) => {
                   <i className="fa fa-check"></i>Tu mensaje fue enviado, GRACIAS!<br />
                </div>
             </div>
-
-
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
                   <h4>Telefono</h4>
